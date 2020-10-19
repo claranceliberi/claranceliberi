@@ -8,6 +8,6 @@
 
 |My overall statistics|Top languages |
 |------------------|-------------|
-|![Ntwari Clarance Liberiste's github stats](https://github-readme-stats.vercel.app/api?username=ntwaricliberi&show_icons=true&theme=dark&count_private=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwaricliberi&langs_count=100&layout=compact)|
+|![Ntwari Clarance Liberiste's github stats](https://github-readme-stats.vercel.app/api?username=ntwaricliberi&show_icons=true&count_private=true&bg_color=30,3f5efb,fc466b&title_color=fff&text_color=ffffffc2&icon_color=00ffdce6)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntwaricliberi&langs_count=100&layout=compact&count_private=true)|
 
 
