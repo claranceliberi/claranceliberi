@@ -2,9 +2,25 @@
 
 ### Hi there 👋
 
-|intro|social links|
-|-----|------------|
-|I am software developer from Rwanda Coding Academy and also freelancer, cool at `laravel`,`vuejs` and  `node js` i am targeting `java` for better development |Available on [twitter](https://twitter.com/ClaranceLiberi) and  [linkedin](https://www.linkedin.com/in/ntwari-clarance-liberiste-27a484184) |
+
+<center align="right" style="display:flex;justify-content:center;">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> 
+    
+#### 2nd year Rwanda Coding Academy student.
+#### Computer is everything.
+</center>  
+  
+### ✨ Quick Facts
+
+- 👨🏽‍💻 I’m currently working working as a Full Stack Developer
+- 🌱 I’m currently learning Unit-Testing and Flutter.
+<!--- 🤔 I’m looking for help for my future MERN projects.-->
+- 💬 Ask me about anything related to JS, Vue, Vuex, Nuxt and Node. 😜😌
+- ⚡️ Fun-Fact: I am coding machine when i am coding in noiseless environment 🙃.
+- 🎿 Hobbies other than coding : Reading blogs, fun facts  or about History , Playing games and exprolling github.
+- 📫 How to reach me: liberintwari@gmail.com
+<!-- - 📝 [Resume](https://drive.google.com/drive/folders/1VxDtIflu5nThxTtm8COG_eh_1FkjF3Jj) -->
+
 
 |My overall statistics|Top languages |
 |------------------|-------------|
