@@ -1,6 +1,7 @@
 <!-- https://github.com/carlsednaoui/gitsocial -->
 
-### Hi there 👋
+ Hi there 👋
 
-#### 2nd year Rwanda Coding Academy Software Engineering student.
-#### Computer is life.
+ 2nd year at Rwanda Coding Academy, Software Engineering student.
+ <br>
+ Computer is life.
